@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ailemeng.github.io/sitemap.html.gz
+Sitemap: https://ailemeng.github.io/app/sitemap.html.gz
+Sitemap: https://ailemeng.github.io/assets/sitemap.html.gz
+Sitemap: https://ailemeng.github.io/css/sitemap.html.gz
+Sitemap: https://ailemeng.github.io/includes/sitemap.html.gz
+Sitemap: https://ailemeng.github.io/item/sitemap.html.gz
+Sitemap: https://ailemeng.github.io/src/sitemap.html.gz
